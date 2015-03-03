@@ -1,0 +1,15 @@
+{
+  "name": "WhiteBoard",
+  "version": "0.1.0",
+  "description": "WhiteBoard",
+  "main": "app.js",
+  "author": {
+    "name": "Santosh Ekbote",
+    "email": "santosh.ekbote@gmail.com"
+  },
+  "dependencies": {
+    "express": "^4.12.1",
+    "underscore": "^1.8.2",
+    "vash": "^0.7.12-1"
+  }
+}

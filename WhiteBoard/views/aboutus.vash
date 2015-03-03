@@ -1,0 +1,5 @@
+﻿@html.extend('layout',function(modal){
+@html.block('content',function(modal){
+ <h2>@model.title</h2>
+})
+})
